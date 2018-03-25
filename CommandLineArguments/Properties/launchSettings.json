@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CommandLineArguments": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 1234"
+    }
+  }
+}
